@@ -65,7 +65,7 @@ AutoAlbum follows a "data-adjacent" storage philosophy. Everything is kept withi
 
 - **Supported Formats**: `.jpg`, `.jpeg`, `.png`, and `.webp`. *(HEIC/HEIF is currently not supported).*
 - **Write Permissions**: The app must be able to write `AutoAlbum.json` to your target directory.
-- **Geocoding**: Location name lookups require an internet connection and are rate-limited to 1 request per second to respect OpenStreetMap's usage policy.
+- **Offline Geocoding**: Automatically converts GPS coordinates into human-readable city/town names using a local database. No internet required after the initial setup.
 
 ---
 
