@@ -4,6 +4,15 @@
 
 AutoAlbum is a local-first photo journal and gallery. It scans your photo directory, extracts metadata (GPS, timestamps, EXIF), and automatically generates a stunning, interactive timeline with location-aware headers, intelligent image clustering, and rich journaling blocks.
 
+## 🖼️ Preview
+
+![Timeline View](docs/images/timeline_view.png)
+*Automatic clustering and timeline generation.*
+
+![Layout Controls](docs/images/layout_controls.png)
+*Dynamic layout controls: Adjust density, size, and rotation on the fly.*
+
+
 ---
 
 ## ✨ Key Features

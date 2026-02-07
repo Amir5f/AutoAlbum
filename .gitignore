@@ -15,8 +15,8 @@ yarn-error.log*
 .DS_Store
 Thumbs.db
 
-# Documentation (as requested)
-docs/
+# Documentation
+docs/*.md
 
 # Local configuration and data (if any)
 .env
